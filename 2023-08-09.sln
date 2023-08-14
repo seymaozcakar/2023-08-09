@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_AdoNet", "010_AdoNet\010_AdoNet.csproj", "{D76E974B-6EC8-4C15-90CF-88B248E034D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_AdoNet", "020_\020_AdoNet.csproj", "{0D3FDADA-B9F2-449F-B1DC-108313726C8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030_AdoNet", "030_AdoNet\030_AdoNet.csproj", "{C3ABA873-6C2A-48AF-A25C-88C093CFC434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76E974B-6EC8-4C15-90CF-88B248E034D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76E974B-6EC8-4C15-90CF-88B248E034D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76E974B-6EC8-4C15-90CF-88B248E034D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76E974B-6EC8-4C15-90CF-88B248E034D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D3FDADA-B9F2-449F-B1DC-108313726C8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3FDADA-B9F2-449F-B1DC-108313726C8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3FDADA-B9F2-449F-B1DC-108313726C8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3FDADA-B9F2-449F-B1DC-108313726C8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3ABA873-6C2A-48AF-A25C-88C093CFC434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3ABA873-6C2A-48AF-A25C-88C093CFC434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3ABA873-6C2A-48AF-A25C-88C093CFC434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3ABA873-6C2A-48AF-A25C-88C093CFC434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12218588-ADA9-4FFC-855F-51F3FCC4A303}
+	EndGlobalSection
+EndGlobal
